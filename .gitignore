@@ -1,3 +1,8 @@
+#raw data, processed data, and cache should not be tracked in git
 data/cache
 data/raw
+data/processed
+
+#report files should not be tracked
 report/
+
