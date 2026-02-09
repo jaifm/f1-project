@@ -6,3 +6,5 @@ data/processed
 #report files should not be tracked
 report/
 
+#model files should not be tracked (will save trained models here, but not the code to train them)
+models/
